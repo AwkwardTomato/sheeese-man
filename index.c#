@@ -1,4 +1,5 @@
 using system
+<<<<<<< HEAD
 {
 class program
 {
@@ -8,4 +9,19 @@ Console.WriteLine("cefsadsdsfafsafsafsadfdafsadese");
 int v = Console.ReadLine();
 }
 }
+=======
+namespace cheese
+{
+  class Program
+  {
+    static void /// <summary>
+    ///   The main entry point for the application
+    /// </summary>
+    [STAThread]
+    public static void Main(string[] args)
+    {
+      Console.WriteLine("login form");
+    }
+  }
+>>>>>>> login
 }
