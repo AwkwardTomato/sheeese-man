@@ -1,15 +1,4 @@
-using system
-<<<<<<< HEAD
-{
-class program
-{
-static void Main()
-{
-Console.WriteLine("cefsadsdsfafsafsafsadfdafsadese");
-int v = Console.ReadLine();
-}
-}
-=======
+
 namespace cheese
 {
   class Program
@@ -23,5 +12,3 @@ namespace cheese
       Console.WriteLine("login form");
     }
   }
->>>>>>> login
-}
