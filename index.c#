@@ -1,0 +1,11 @@
+using system
+{
+class program
+{
+static void Main()
+{
+Console.WriteLine("cefsadsdsfafsafsafsadfdafsadese");
+int v = Console.ReadLine();
+}
+}
+}
